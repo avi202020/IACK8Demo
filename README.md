@@ -7,7 +7,7 @@
     * Azure CLI Configured
       
        
-   # Application Deployment-> https://github.com/avi202020/K8AppDB/edit/master/README.md
+   # Application Deployment-> https://github.com/avi202020/K8AppDB
         
    # Execution Steps
     
